@@ -150,4 +150,4 @@ Pydantic Documentation
 Uvicorn ASGI Server
 
 ✅ Author
-Benson Syengo – FastAPI CRUD Student & Courses Project – 2025
+Bernard Syengo – FastAPI CRUD Student & Courses Project – 2025
